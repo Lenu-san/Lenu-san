@@ -90,5 +90,5 @@ Verifiable badges on [Credly](https://www.credly.com/users/lenusan-josap-gunaraj
 ## Contact
 
 - Portfolio : https://lenu-san.github.io
-- LinkedIn : https://www.linkedin.com/in/lenusan-gunarajah
+- LinkedIn : https://www.linkedin.com/in/l%C3%A9nusan-g-0470b6336
 - E-mail : lenuss@live.fr
